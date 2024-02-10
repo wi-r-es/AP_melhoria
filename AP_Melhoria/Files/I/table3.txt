@@ -1,0 +1,9 @@
+PA;P. Almoço;10
+A;Almoço;20
+PA+A;P. Almoço + Almoço;25
+J;Jantar;20
+PA+J;P. Almoço + Jantar;20
+PA+A+J;P. Almoço + Almoço + Jantar;30
+B&C;Bebidas e Cafetaria;10
+PC;Pensão Completa;50
+O;Outros;10
